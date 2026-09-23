@@ -1,0 +1,1 @@
+DROP SCHEMA token_data CASCADE;
